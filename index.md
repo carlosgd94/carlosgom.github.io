@@ -11,6 +11,6 @@ tittle: Carlos Gómez Diaz
 
 
 
-  [sobre mi](/about)
+  [sobre mi](about)
  
  

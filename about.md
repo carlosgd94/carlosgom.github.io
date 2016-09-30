@@ -1,7 +1,8 @@
+---
 layout: index
 
 tittle: Carlos Gómez. CV
-
+---
 # Carlos Gómez Díaz
 
   - [carlos.gomez.d@hotmail.com]
