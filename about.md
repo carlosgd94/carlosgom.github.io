@@ -3,7 +3,7 @@ layout: index
 
 tittle: Carlos Gómez. CV
 ---
-# Carlos Gómez Díaz
+# [Carlos Gómez Díaz](index)
 
   - [carlos.gomez.d@hotmail.com]
   - [carlosgd94]
@@ -12,7 +12,7 @@ tittle: Carlos Gómez. CV
 ### Administrador de Sistemas Informáticos y Redes.
 
 
-####Estudios
+#### Estudios
 
   - Bachillerato Cientifico-Tecnológico.
   - Prueba acceso Grado Superior.
