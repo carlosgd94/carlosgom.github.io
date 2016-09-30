@@ -1,6 +1,8 @@
+---
 layout: index
 
-tittle: Carlos Gómez, CV
+tittle: Carlos Gómez Diaz
+---
 
 # Carlos Gómez Díaz
 
@@ -9,6 +11,6 @@ tittle: Carlos Gómez, CV
 
 
 
-  [sobre mi](about)
+  [sobre mi](/about)
  
  
