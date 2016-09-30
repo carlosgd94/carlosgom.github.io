@@ -1,6 +1,6 @@
 layout: index
 
-tittle: Carlos Gómez, CV
+tittle: Carlos Gómez. CV
 
 # Carlos Gómez Díaz
 
