@@ -8,7 +8,7 @@ tittle: Carlos Gómez Diaz
 
   - [sobre mi](about)
 
-
+  - ![estudiante](images/estudiante.jpg)
 
 
 
